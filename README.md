@@ -1,4 +1,4 @@
-# calculator
+# Calculator
 ## Overview
 A simple desktop calculator application built with Python and PySimpleGUI.
 
